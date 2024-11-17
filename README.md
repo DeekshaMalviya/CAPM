@@ -87,3 +87,4 @@ pip install -r requirements.txt
 ## **Contributing**
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for improvements, bug fixes, or feature requests.
+Streamlit works on Port: 8501
